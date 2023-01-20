@@ -1,6 +1,6 @@
 {
-  "name": "react-spreadsheet-import",
-  "version": "2.0.8",
+  "name": "@codidae/react-spreadsheet-import",
+  "version": "1.0.0",
   "description": "React spreadsheet import for xlsx and csv files with column matching and validation",
   "main": "./dist-commonjs/index.js",
   "module": "./dist/index.js",
@@ -38,7 +38,7 @@
     "automatic",
     "match"
   ],
-  "author": "Ugnis",
+  "author": "tristanblt",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/UgnisSoftware/react-spreadsheet-import/issues"
@@ -49,8 +49,8 @@
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "framer-motion": "^4.1.17 || ^6.3.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
     "chakra-react-select": "^3.1.2",
